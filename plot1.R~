@@ -27,7 +27,5 @@ plot1 <- function(files) {
   {cat("Supplied file doesn't exists, exiting")}
 }
 
-#
 # Plot the diagram
-#
 plot1(file)
